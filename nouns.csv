@@ -1,0 +1,501 @@
+ID,Korean,Romanization,English,Category
+1,생각,saenggak,thought,abstract
+2,사랑,sarang,love,abstract
+3,행복,haengbok,happiness,abstract
+4,기분,gibun,"mood, feeling",abstract
+5,느낌,neukkim,feeling,abstract
+6,꿈,kkum,dream,abstract
+7,희망,huimang,hope,abstract
+8,걱정,geokjeong,worry,abstract
+9,이유,iyu,reason,abstract
+10,뜻,tteut,meaning,abstract
+11,이야기,iyagi,"story, talk",abstract
+12,소리,sori,sound,abstract
+13,노래,norae,song,abstract
+14,음악,eumak,music,abstract
+15,영화,yeonghwa,movie,abstract
+16,운동,undong,exercise,abstract
+17,취미,chwimi,hobby,abstract
+18,게임,geim,game,abstract
+19,축구,chukgu,soccer,abstract
+20,야구,yagu,baseball,abstract
+21,농구,nonggu,basketball,abstract
+22,건강,geongang,health,abstract
+23,병,byeong,"illness, bottle",abstract
+24,감기,gamgi,cold (illness),abstract
+25,약,yak,medicine,abstract
+26,문화,munhwa,culture,abstract
+27,역사,yeoksa,history,abstract
+28,언어,eoneo,language,abstract
+29,한국어,hangugeo,Korean language,abstract
+30,영어,yeongeo,English language,abstract
+31,단어,daneo,word,abstract
+32,문장,munjang,sentence,abstract
+33,뉴스,nyuseu,news,abstract
+34,인터넷,inteonet,internet,abstract
+35,정보,jeongbo,information,abstract
+36,사실,sasil,"fact, truth",abstract
+37,거짓말,geojinmal,lie,abstract
+38,도움,doum,help,abstract
+39,실수,silsu,mistake,abstract
+40,성공,seonggong,success,abstract
+41,실패,silpae,failure,abstract
+42,결혼,gyeolhon,marriage,abstract
+43,파티,pati,party,abstract
+44,축제,chukje,festival,abstract
+45,색,saek,color,abstract
+46,크기,keugi,size,abstract
+47,모양,moyang,shape,abstract
+48,값,gap,price,abstract
+49,가격,gagyeok,price,abstract
+50,무게,muge,weight,abstract
+51,숫자,sutja,"number, digit",abstract
+52,방법,bangbeop,method,abstract
+53,규칙,gyuchik,rule,abstract
+54,습관,seupgwan,habit,abstract
+55,성격,seonggyeok,personality,abstract
+56,관심,gwansim,interest,abstract
+57,재미,jaemi,fun,abstract
+58,사고,sago,accident,abstract
+59,전쟁,jeonjaeng,war,abstract
+60,평화,pyeonghwa,peace,abstract
+61,자유,jayu,freedom,abstract
+62,정치,jeongchi,politics,abstract
+63,경제,gyeongje,economy,abstract
+64,사회,sahoe,society,abstract
+65,종교,jonggyo,religion,abstract
+66,과학,gwahak,science,abstract
+67,수학,suhak,math,abstract
+68,예술,yesul,art,abstract
+69,스포츠,seupocheu,sports,abstract
+70,여기,yeogi,here,abstract
+71,거기,geogi,there,abstract
+72,저기,jeogi,over there,abstract
+73,몸,mom,body,body
+74,머리,meori,"head, hair",body
+75,얼굴,eolgul,face,body
+76,눈,nun,eye,body
+77,코,ko,nose,body
+78,입,ip,mouth,body
+79,귀,gwi,ear,body
+80,이,i,tooth,body
+81,목,mok,"neck, throat",body
+82,어깨,eokkae,shoulder,body
+83,팔,pal,arm,body
+84,손,son,hand,body
+85,손가락,songarak,finger,body
+86,다리,dari,leg,body
+87,발,bal,foot,body
+88,발가락,balgarak,toe,body
+89,배,bae,belly,body
+90,등,deung,back,body
+91,가슴,gaseum,chest,body
+92,허리,heori,waist,body
+93,피부,pibu,skin,body
+94,피,pi,blood,body
+95,마음,maeum,"heart, mind",body
+96,심장,simjang,heart (organ),body
+97,입술,ipsul,lips,body
+98,혀,hyeo,tongue,body
+99,무릎,mureup,knee,body
+100,머리카락,meorikarak,hair (strands),body
+101,뼈,ppyeo,bone,body
+102,이마,ima,forehead,body
+103,손톱,sontop,fingernail,body
+104,턱,teok,"chin, jaw",body
+105,눈썹,nunsseop,eyebrow,body
+106,음식,eumsik,food,food
+107,밥,bap,"rice, meal",food
+108,물,mul,water,food
+109,빵,ppang,bread,food
+110,고기,gogi,meat,food
+111,소고기,sogogi,beef,food
+112,돼지고기,dwaejigogi,pork,food
+113,닭고기,dakgogi,chicken (meat),food
+114,생선,saengseon,fish (food),food
+115,야채,yachae,vegetables,food
+116,과일,gwail,fruit,food
+117,사과,sagwa,apple,food
+118,바나나,banana,banana,food
+119,딸기,ttalgi,strawberry,food
+120,포도,podo,grapes,food
+121,수박,subak,watermelon,food
+122,귤,gyul,tangerine,food
+123,김치,gimchi,kimchi,food
+124,라면,ramyeon,ramen,food
+125,국,guk,soup,food
+126,찌개,jjigae,stew,food
+127,계란,gyeran,egg,food
+128,우유,uyu,milk,food
+129,커피,keopi,coffee,food
+130,차,cha,tea,food
+131,주스,juseu,juice,food
+132,맥주,maekju,beer,food
+133,술,sul,alcohol,food
+134,소주,soju,soju,food
+135,설탕,seoltang,sugar,food
+136,소금,sogeum,salt,food
+137,간장,ganjang,soy sauce,food
+138,고추,gochu,chili pepper,food
+139,마늘,maneul,garlic,food
+140,양파,yangpa,onion,food
+141,감자,gamja,potato,food
+142,당근,danggeun,carrot,food
+143,두부,dubu,tofu,food
+144,김,gim,dried seaweed,food
+145,떡,tteok,rice cake,food
+146,과자,gwaja,"snack, cookie",food
+147,아이스크림,aiseukeurim,ice cream,food
+148,케이크,keikeu,cake,food
+149,아침,achim,"breakfast, morning",food
+150,점심,jeomsim,lunch,food
+151,저녁,jeonyeok,"dinner, evening",food
+152,반찬,banchan,side dish,food
+153,간식,gansik,snack,food
+154,디저트,dijeoteu,dessert,food
+155,맛,mat,taste,food
+156,치킨,chikin,fried chicken,food
+157,피자,pija,pizza,food
+158,햄버거,haembeogeo,hamburger,food
+159,초콜릿,chokollit,chocolate,food
+160,버섯,beoseot,mushroom,food
+161,배추,baechu,napa cabbage,food
+162,쌀,ssal,uncooked rice,food
+163,물병,mulbyeong,water bottle,food
+164,메뉴,menyu,menu,food
+165,집,jip,"house, home",home
+166,방,bang,room,home
+167,문,mun,door,home
+168,창문,changmun,window,home
+169,부엌,bueok,kitchen,home
+170,화장실,hwajangsil,bathroom,home
+171,거실,geosil,living room,home
+172,침대,chimdae,bed,home
+173,의자,uija,chair,home
+174,책상,chaeksang,desk,home
+175,식탁,siktak,dining table,home
+176,냉장고,naengjanggo,refrigerator,home
+177,텔레비전,tellebijeon,television,home
+178,컴퓨터,keompyuteo,computer,home
+179,전화,jeonhwa,telephone,home
+180,휴대폰,hyudaepon,cell phone,home
+181,시계,sigye,"clock, watch",home
+182,거울,geoul,mirror,home
+183,가방,gabang,bag,home
+184,우산,usan,umbrella,home
+185,열쇠,yeolsoe,key,home
+186,옷,ot,clothes,home
+187,신발,sinbal,shoes,home
+188,모자,moja,hat,home
+189,바지,baji,pants,home
+190,치마,chima,skirt,home
+191,양말,yangmal,socks,home
+192,안경,angyeong,glasses,home
+193,책,chaek,book,home
+194,공책,gongchaek,notebook,home
+195,연필,yeonpil,pencil,home
+196,종이,jongi,paper,home
+197,사진,sajin,photo,home
+198,그림,geurim,"picture, drawing",home
+199,컵,keop,cup,home
+200,접시,jeopsi,plate,home
+201,숟가락,sutgarak,spoon,home
+202,젓가락,jeotgarak,chopsticks,home
+203,칼,kal,knife,home
+204,그릇,geureut,bowl,home
+205,이불,ibul,blanket,home
+206,베개,begae,pillow,home
+207,소파,sopa,sofa,home
+208,벽,byeok,wall,home
+209,바닥,badak,floor,home
+210,계단,gyedan,stairs,home
+211,불,bul,"light, fire",home
+212,비누,binu,soap,home
+213,수건,sugeon,towel,home
+214,칫솔,chitsol,toothbrush,home
+215,치약,chiyak,toothpaste,home
+216,선물,seonmul,gift,home
+217,편지,pyeonji,letter,home
+218,지갑,jigap,wallet,home
+219,돈,don,money,home
+220,쓰레기,sseuregi,trash,home
+221,다리미,darimi,iron (clothes),home
+222,세탁기,setakgi,washing machine,home
+223,에어컨,eeokeon,air conditioner,home
+224,날씨,nalssi,weather,nature
+225,하늘,haneul,sky,nature
+226,구름,gureum,cloud,nature
+227,비,bi,rain,nature
+228,바람,baram,wind,nature
+229,햇빛,haetbit,sunlight,nature
+230,별,byeol,star,nature
+231,산,san,mountain,nature
+232,바다,bada,sea,nature
+233,강,gang,river,nature
+234,호수,hosu,lake,nature
+235,섬,seom,island,nature
+236,나무,namu,tree,nature
+237,꽃,kkot,flower,nature
+238,풀,pul,grass,nature
+239,돌,dol,stone,nature
+240,땅,ttang,"ground, land",nature
+241,공기,gonggi,air,nature
+242,동물,dongmul,animal,nature
+243,개,gae,dog,nature
+244,고양이,goyangi,cat,nature
+245,새,sae,bird,nature
+246,물고기,mulgogi,fish (animal),nature
+247,소,so,cow,nature
+248,말,mal,"horse, speech",nature
+249,돼지,dwaeji,pig,nature
+250,닭,dak,chicken,nature
+251,토끼,tokki,rabbit,nature
+252,곰,gom,bear,nature
+253,호랑이,horangi,tiger,nature
+254,원숭이,wonsungi,monkey,nature
+255,쥐,jwi,"mouse, rat",nature
+256,뱀,baem,snake,nature
+257,벌레,beolle,bug,nature
+258,숲,sup,forest,nature
+259,모래,morae,sand,nature
+260,눈사람,nunsaram,snowman,nature
+261,무지개,mujigae,rainbow,nature
+262,태풍,taepung,typhoon,nature
+263,지구,jigu,Earth,nature
+264,자연,jayeon,nature,nature
+265,잎,ip,leaf,nature
+266,바위,bawi,rock,nature
+267,오리,ori,duck,nature
+268,사람,saram,person,people
+269,남자,namja,man,people
+270,여자,yeoja,woman,people
+271,아이,ai,child,people
+272,아기,agi,baby,people
+273,친구,chingu,friend,people
+274,가족,gajok,family,people
+275,부모,bumo,parents,people
+276,아버지,abeoji,father,people
+277,어머니,eomeoni,mother,people
+278,아빠,appa,dad,people
+279,엄마,eomma,mom,people
+280,형,hyeong,older brother (male speaker),people
+281,오빠,oppa,older brother (female speaker),people
+282,누나,nuna,older sister (male speaker),people
+283,언니,eonni,older sister (female speaker),people
+284,동생,dongsaeng,younger sibling,people
+285,남동생,namdongsaeng,younger brother,people
+286,여동생,yeodongsaeng,younger sister,people
+287,할아버지,harabeoji,grandfather,people
+288,할머니,halmeoni,grandmother,people
+289,아들,adeul,son,people
+290,딸,ttal,daughter,people
+291,남편,nampyeon,husband,people
+292,아내,anae,wife,people
+293,부부,bubu,married couple,people
+294,삼촌,samchon,uncle,people
+295,이모,imo,aunt (maternal),people
+296,사촌,sachon,cousin,people
+297,손자,sonja,grandson,people
+298,손녀,sonnyeo,granddaughter,people
+299,이웃,iut,neighbor,people
+300,학생,haksaeng,student,people
+301,선생님,seonsaengnim,teacher,people
+302,의사,uisa,doctor,people
+303,간호사,ganhosa,nurse,people
+304,경찰,gyeongchal,police officer,people
+305,요리사,yorisa,"cook, chef",people
+306,가수,gasu,singer,people
+307,배우,baeu,actor,people
+308,회사원,hoesawon,office worker,people
+309,사장,sajang,"company president, boss",people
+310,직원,jigwon,employee,people
+311,손님,sonnim,"guest, customer",people
+312,주인,juin,owner,people
+313,외국인,oegugin,foreigner,people
+314,한국인,hangugin,Korean person,people
+315,미국인,migugin,American person,people
+316,어른,eoreun,adult,people
+317,청년,cheongnyeon,young person,people
+318,노인,noin,elderly person,people
+319,애인,aein,sweetheart,people
+320,남자친구,namjachingu,boyfriend,people
+321,여자친구,yeojachingu,girlfriend,people
+322,동료,dongnyo,coworker,people
+323,선배,seonbae,senior (school/work),people
+324,후배,hubae,junior (school/work),people
+325,대학생,daehaksaeng,college student,people
+326,군인,gunin,soldier,people
+327,작가,jakga,writer,people
+328,화가,hwaga,painter,people
+329,기자,gija,reporter,people
+330,변호사,byeonhosa,lawyer,people
+331,운전사,unjeonsa,driver,people
+332,농부,nongbu,farmer,people
+333,곳,got,place,places
+334,학교,hakgyo,school,places
+335,회사,hoesa,company,places
+336,병원,byeongwon,hospital,places
+337,약국,yakguk,pharmacy,places
+338,은행,eunhaeng,bank,places
+339,식당,sikdang,restaurant,places
+340,카페,kape,cafe,places
+341,시장,sijang,market,places
+342,가게,gage,store,places
+343,백화점,baekhwajeom,department store,places
+344,편의점,pyeonuijeom,convenience store,places
+345,도서관,doseogwan,library,places
+346,공원,gongwon,park,places
+347,교회,gyohoe,church,places
+348,절,jeol,Buddhist temple,places
+349,우체국,ucheguk,post office,places
+350,영화관,yeonghwagwan,movie theater,places
+351,박물관,bangmulgwan,museum,places
+352,미술관,misulgwan,art gallery,places
+353,대학교,daehakgyo,university,places
+354,교실,gyosil,classroom,places
+355,사무실,samusil,office,places
+356,길,gil,"road, way",places
+357,거리,geori,street,places
+358,도시,dosi,city,places
+359,시골,sigol,countryside,places
+360,나라,nara,country,places
+361,세계,segye,world,places
+362,한국,hanguk,Korea,places
+363,미국,miguk,USA,places
+364,서울,seoul,Seoul,places
+365,동네,dongne,neighborhood,places
+366,아파트,apateu,apartment,places
+367,건물,geonmul,building,places
+368,호텔,hotel,hotel,places
+369,헬스장,helseujang,gym,places
+370,수영장,suyeongjang,swimming pool,places
+371,경찰서,gyeongchalseo,police station,places
+372,미용실,miyongsil,hair salon,places
+373,빵집,ppangjip,bakery,places
+374,주차장,juchajang,parking lot,places
+375,노래방,noraebang,karaoke room,places
+376,극장,geukjang,theater,places
+377,동물원,dongmurwon,zoo,places
+378,시간,sigan,"time, hour",time
+379,오늘,oneul,today,time
+380,내일,naeil,tomorrow,time
+381,어제,eoje,yesterday,time
+382,모레,more,day after tomorrow,time
+383,날,nal,day,time
+384,주,ju,week,time
+385,주말,jumal,weekend,time
+386,달,dal,"month, moon",time
+387,해,hae,"year, sun",time
+388,년,nyeon,year (counter),time
+389,월,wol,month (counter),time
+390,일,il,"day (counter), work",time
+391,시,si,o'clock,time
+392,분,bun,minute,time
+393,초,cho,second,time
+394,밤,bam,night,time
+395,새벽,saebyeok,dawn,time
+396,오전,ojeon,a.m.,time
+397,오후,ohu,p.m.,time
+398,낮,nat,daytime,time
+399,봄,bom,spring,time
+400,여름,yeoreum,summer,time
+401,가을,gaeul,autumn,time
+402,겨울,gyeoul,winter,time
+403,생일,saengil,birthday,time
+404,방학,banghak,school vacation,time
+405,휴가,hyuga,"vacation, leave",time
+406,월요일,woryoil,Monday,time
+407,화요일,hwayoil,Tuesday,time
+408,수요일,suyoil,Wednesday,time
+409,목요일,mogyoil,Thursday,time
+410,금요일,geumyoil,Friday,time
+411,토요일,toyoil,Saturday,time
+412,일요일,iryoil,Sunday,time
+413,지금,jigeum,now,time
+414,요즘,yojeum,these days,time
+415,나중,najung,later,time
+416,처음,cheoeum,"first time, beginning",time
+417,마지막,majimak,"last, end",time
+418,옛날,yennal,old days,time
+419,미래,mirae,future,time
+420,과거,gwageo,past,time
+421,현재,hyeonjae,present,time
+422,매일,maeil,every day,time
+423,평일,pyeongil,weekday,time
+424,작년,jangnyeon,last year,time
+425,내년,naenyeon,next year,time
+426,올해,olhae,this year,time
+427,여행,yeohaeng,"travel, trip",travel
+428,공항,gonghang,airport,travel
+429,비행기,bihaenggi,airplane,travel
+430,기차,gicha,train,travel
+431,지하철,jihacheol,subway,travel
+432,버스,beoseu,bus,travel
+433,택시,taeksi,taxi,travel
+434,자동차,jadongcha,car,travel
+435,자전거,jajeongeo,bicycle,travel
+436,역,yeok,station,travel
+437,정류장,jeongnyujang,bus stop,travel
+438,표,pyo,ticket,travel
+439,여권,yeogwon,passport,travel
+440,지도,jido,map,travel
+441,짐,jim,luggage,travel
+442,호선,hoseon,subway line,travel
+443,출구,chulgu,exit,travel
+444,입구,ipgu,entrance,travel
+445,왼쪽,oenjjok,left side,travel
+446,오른쪽,oreunjjok,right side,travel
+447,앞,ap,front,travel
+448,뒤,dwi,"back, behind",travel
+449,옆,yeop,"side, next to",travel
+450,위,wi,"top, above",travel
+451,아래,arae,"bottom, below",travel
+452,안,an,inside,travel
+453,밖,bak,outside,travel
+454,근처,geuncheo,"vicinity, nearby",travel
+455,방향,banghyang,direction,travel
+456,관광,gwangwang,sightseeing,travel
+457,예약,yeyak,reservation,travel
+458,숙소,sukso,lodging,travel
+459,비자,bija,visa,travel
+460,배낭,baenang,backpack,travel
+461,환전,hwanjeon,currency exchange,travel
+462,사거리,sageori,intersection,travel
+463,신호등,sinhodeung,traffic light,travel
+464,배편,baepyeon,ferry service,travel
+465,일자리,iljari,job,work
+466,직업,jigeop,occupation,work
+467,회의,hoeui,meeting,work
+468,숙제,sukje,homework,work
+469,공부,gongbu,study,work
+470,시험,siheom,exam,work
+471,수업,sueop,"class, lesson",work
+472,문제,munje,"problem, question",work
+473,대답,daedap,answer,work
+474,질문,jilmun,question,work
+475,이름,ireum,name,work
+476,번호,beonho,number,work
+477,주소,juso,address,work
+478,이메일,imeil,email,work
+479,서류,seoryu,document,work
+480,계획,gyehoek,plan,work
+481,경험,gyeongheom,experience,work
+482,월급,wolgeup,monthly salary,work
+483,출근,chulgeun,going to work,work
+484,퇴근,toegeun,leaving work,work
+485,프로젝트,peurojekteu,project,work
+486,보고서,bogoseo,report,work
+487,전공,jeongong,major (study),work
+488,졸업,joreop,graduation,work
+489,입학,iphak,school admission,work
+490,면접,myeonjeop,job interview,work
+491,연락,yeollak,contact,work
+492,약속,yaksok,"promise, appointment",work
+493,돈벌이,donbeori,earning a living,work
+494,노트북,noteubuk,laptop,work
+495,회사일,hoesail,company work,work
+496,업무,eopmu,"duties, tasks",work
+497,일정,iljeong,schedule,work
+498,월말,wolmal,end of month,work
+499,고객,gogaek,client,work
+500,상사,sangsa,"boss, superior",work
