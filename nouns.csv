@@ -1,501 +1,501 @@
-ID,Korean,Romanization,English,Category
-1,생각,saenggak,thought,abstract
-2,사랑,sarang,love,abstract
-3,행복,haengbok,happiness,abstract
-4,기분,gibun,"mood, feeling",abstract
-5,느낌,neukkim,feeling,abstract
-6,꿈,kkum,dream,abstract
-7,희망,huimang,hope,abstract
-8,걱정,geokjeong,worry,abstract
-9,이유,iyu,reason,abstract
-10,뜻,tteut,meaning,abstract
-11,이야기,iyagi,"story, talk",abstract
-12,소리,sori,sound,abstract
-13,노래,norae,song,abstract
-14,음악,eumak,music,abstract
-15,영화,yeonghwa,movie,abstract
-16,운동,undong,exercise,abstract
-17,취미,chwimi,hobby,abstract
-18,게임,geim,game,abstract
-19,축구,chukgu,soccer,abstract
-20,야구,yagu,baseball,abstract
-21,농구,nonggu,basketball,abstract
-22,건강,geongang,health,abstract
-23,병,byeong,"illness, bottle",abstract
-24,감기,gamgi,cold (illness),abstract
-25,약,yak,medicine,abstract
-26,문화,munhwa,culture,abstract
-27,역사,yeoksa,history,abstract
-28,언어,eoneo,language,abstract
-29,한국어,hangugeo,Korean language,abstract
-30,영어,yeongeo,English language,abstract
-31,단어,daneo,word,abstract
-32,문장,munjang,sentence,abstract
-33,뉴스,nyuseu,news,abstract
-34,인터넷,inteonet,internet,abstract
-35,정보,jeongbo,information,abstract
-36,사실,sasil,"fact, truth",abstract
-37,거짓말,geojinmal,lie,abstract
-38,도움,doum,help,abstract
-39,실수,silsu,mistake,abstract
-40,성공,seonggong,success,abstract
-41,실패,silpae,failure,abstract
-42,결혼,gyeolhon,marriage,abstract
-43,파티,pati,party,abstract
-44,축제,chukje,festival,abstract
-45,색,saek,color,abstract
-46,크기,keugi,size,abstract
-47,모양,moyang,shape,abstract
-48,값,gap,price,abstract
-49,가격,gagyeok,price,abstract
-50,무게,muge,weight,abstract
-51,숫자,sutja,"number, digit",abstract
-52,방법,bangbeop,method,abstract
-53,규칙,gyuchik,rule,abstract
-54,습관,seupgwan,habit,abstract
-55,성격,seonggyeok,personality,abstract
-56,관심,gwansim,interest,abstract
-57,재미,jaemi,fun,abstract
-58,사고,sago,accident,abstract
-59,전쟁,jeonjaeng,war,abstract
-60,평화,pyeonghwa,peace,abstract
-61,자유,jayu,freedom,abstract
-62,정치,jeongchi,politics,abstract
-63,경제,gyeongje,economy,abstract
-64,사회,sahoe,society,abstract
-65,종교,jonggyo,religion,abstract
-66,과학,gwahak,science,abstract
-67,수학,suhak,math,abstract
-68,예술,yesul,art,abstract
-69,스포츠,seupocheu,sports,abstract
-70,여기,yeogi,here,abstract
-71,거기,geogi,there,abstract
-72,저기,jeogi,over there,abstract
-73,몸,mom,body,body
-74,머리,meori,"head, hair",body
-75,얼굴,eolgul,face,body
-76,눈,nun,eye,body
-77,코,ko,nose,body
-78,입,ip,mouth,body
-79,귀,gwi,ear,body
-80,이,i,tooth,body
-81,목,mok,"neck, throat",body
-82,어깨,eokkae,shoulder,body
-83,팔,pal,arm,body
-84,손,son,hand,body
-85,손가락,songarak,finger,body
-86,다리,dari,leg,body
-87,발,bal,foot,body
-88,발가락,balgarak,toe,body
-89,배,bae,belly,body
-90,등,deung,back,body
-91,가슴,gaseum,chest,body
-92,허리,heori,waist,body
-93,피부,pibu,skin,body
-94,피,pi,blood,body
-95,마음,maeum,"heart, mind",body
-96,심장,simjang,heart (organ),body
-97,입술,ipsul,lips,body
-98,혀,hyeo,tongue,body
-99,무릎,mureup,knee,body
-100,머리카락,meorikarak,hair (strands),body
-101,뼈,ppyeo,bone,body
-102,이마,ima,forehead,body
-103,손톱,sontop,fingernail,body
-104,턱,teok,"chin, jaw",body
-105,눈썹,nunsseop,eyebrow,body
-106,음식,eumsik,food,food
-107,밥,bap,"rice, meal",food
-108,물,mul,water,food
-109,빵,ppang,bread,food
-110,고기,gogi,meat,food
-111,소고기,sogogi,beef,food
-112,돼지고기,dwaejigogi,pork,food
-113,닭고기,dakgogi,chicken (meat),food
-114,생선,saengseon,fish (food),food
-115,야채,yachae,vegetables,food
-116,과일,gwail,fruit,food
-117,사과,sagwa,apple,food
-118,바나나,banana,banana,food
-119,딸기,ttalgi,strawberry,food
-120,포도,podo,grapes,food
-121,수박,subak,watermelon,food
-122,귤,gyul,tangerine,food
-123,김치,gimchi,kimchi,food
-124,라면,ramyeon,ramen,food
-125,국,guk,soup,food
-126,찌개,jjigae,stew,food
-127,계란,gyeran,egg,food
-128,우유,uyu,milk,food
-129,커피,keopi,coffee,food
-130,차,cha,tea,food
-131,주스,juseu,juice,food
-132,맥주,maekju,beer,food
-133,술,sul,alcohol,food
-134,소주,soju,soju,food
-135,설탕,seoltang,sugar,food
-136,소금,sogeum,salt,food
-137,간장,ganjang,soy sauce,food
-138,고추,gochu,chili pepper,food
-139,마늘,maneul,garlic,food
-140,양파,yangpa,onion,food
-141,감자,gamja,potato,food
-142,당근,danggeun,carrot,food
-143,두부,dubu,tofu,food
-144,김,gim,dried seaweed,food
-145,떡,tteok,rice cake,food
-146,과자,gwaja,"snack, cookie",food
-147,아이스크림,aiseukeurim,ice cream,food
-148,케이크,keikeu,cake,food
-149,아침,achim,"breakfast, morning",food
-150,점심,jeomsim,lunch,food
-151,저녁,jeonyeok,"dinner, evening",food
-152,반찬,banchan,side dish,food
-153,간식,gansik,snack,food
-154,디저트,dijeoteu,dessert,food
-155,맛,mat,taste,food
-156,치킨,chikin,fried chicken,food
-157,피자,pija,pizza,food
-158,햄버거,haembeogeo,hamburger,food
-159,초콜릿,chokollit,chocolate,food
-160,버섯,beoseot,mushroom,food
-161,배추,baechu,napa cabbage,food
-162,쌀,ssal,uncooked rice,food
-163,물병,mulbyeong,water bottle,food
-164,메뉴,menyu,menu,food
-165,집,jip,"house, home",home
-166,방,bang,room,home
-167,문,mun,door,home
-168,창문,changmun,window,home
-169,부엌,bueok,kitchen,home
-170,화장실,hwajangsil,bathroom,home
-171,거실,geosil,living room,home
-172,침대,chimdae,bed,home
-173,의자,uija,chair,home
-174,책상,chaeksang,desk,home
-175,식탁,siktak,dining table,home
-176,냉장고,naengjanggo,refrigerator,home
-177,텔레비전,tellebijeon,television,home
-178,컴퓨터,keompyuteo,computer,home
-179,전화,jeonhwa,telephone,home
-180,휴대폰,hyudaepon,cell phone,home
-181,시계,sigye,"clock, watch",home
-182,거울,geoul,mirror,home
-183,가방,gabang,bag,home
-184,우산,usan,umbrella,home
-185,열쇠,yeolsoe,key,home
-186,옷,ot,clothes,home
-187,신발,sinbal,shoes,home
-188,모자,moja,hat,home
-189,바지,baji,pants,home
-190,치마,chima,skirt,home
-191,양말,yangmal,socks,home
-192,안경,angyeong,glasses,home
-193,책,chaek,book,home
-194,공책,gongchaek,notebook,home
-195,연필,yeonpil,pencil,home
-196,종이,jongi,paper,home
-197,사진,sajin,photo,home
-198,그림,geurim,"picture, drawing",home
-199,컵,keop,cup,home
-200,접시,jeopsi,plate,home
-201,숟가락,sutgarak,spoon,home
-202,젓가락,jeotgarak,chopsticks,home
-203,칼,kal,knife,home
-204,그릇,geureut,bowl,home
-205,이불,ibul,blanket,home
-206,베개,begae,pillow,home
-207,소파,sopa,sofa,home
-208,벽,byeok,wall,home
-209,바닥,badak,floor,home
-210,계단,gyedan,stairs,home
-211,불,bul,"light, fire",home
-212,비누,binu,soap,home
-213,수건,sugeon,towel,home
-214,칫솔,chitsol,toothbrush,home
-215,치약,chiyak,toothpaste,home
-216,선물,seonmul,gift,home
-217,편지,pyeonji,letter,home
-218,지갑,jigap,wallet,home
-219,돈,don,money,home
-220,쓰레기,sseuregi,trash,home
-221,다리미,darimi,iron (clothes),home
-222,세탁기,setakgi,washing machine,home
-223,에어컨,eeokeon,air conditioner,home
-224,날씨,nalssi,weather,nature
-225,하늘,haneul,sky,nature
-226,구름,gureum,cloud,nature
-227,비,bi,rain,nature
-228,바람,baram,wind,nature
-229,햇빛,haetbit,sunlight,nature
-230,별,byeol,star,nature
-231,산,san,mountain,nature
-232,바다,bada,sea,nature
-233,강,gang,river,nature
-234,호수,hosu,lake,nature
-235,섬,seom,island,nature
-236,나무,namu,tree,nature
-237,꽃,kkot,flower,nature
-238,풀,pul,grass,nature
-239,돌,dol,stone,nature
-240,땅,ttang,"ground, land",nature
-241,공기,gonggi,air,nature
-242,동물,dongmul,animal,nature
-243,개,gae,dog,nature
-244,고양이,goyangi,cat,nature
-245,새,sae,bird,nature
-246,물고기,mulgogi,fish (animal),nature
-247,소,so,cow,nature
-248,말,mal,"horse, speech",nature
-249,돼지,dwaeji,pig,nature
-250,닭,dak,chicken,nature
-251,토끼,tokki,rabbit,nature
-252,곰,gom,bear,nature
-253,호랑이,horangi,tiger,nature
-254,원숭이,wonsungi,monkey,nature
-255,쥐,jwi,"mouse, rat",nature
-256,뱀,baem,snake,nature
-257,벌레,beolle,bug,nature
-258,숲,sup,forest,nature
-259,모래,morae,sand,nature
-260,눈사람,nunsaram,snowman,nature
-261,무지개,mujigae,rainbow,nature
-262,태풍,taepung,typhoon,nature
-263,지구,jigu,Earth,nature
-264,자연,jayeon,nature,nature
-265,잎,ip,leaf,nature
-266,바위,bawi,rock,nature
-267,오리,ori,duck,nature
-268,사람,saram,person,people
-269,남자,namja,man,people
-270,여자,yeoja,woman,people
-271,아이,ai,child,people
-272,아기,agi,baby,people
-273,친구,chingu,friend,people
-274,가족,gajok,family,people
-275,부모,bumo,parents,people
-276,아버지,abeoji,father,people
-277,어머니,eomeoni,mother,people
-278,아빠,appa,dad,people
-279,엄마,eomma,mom,people
-280,형,hyeong,older brother (male speaker),people
-281,오빠,oppa,older brother (female speaker),people
-282,누나,nuna,older sister (male speaker),people
-283,언니,eonni,older sister (female speaker),people
-284,동생,dongsaeng,younger sibling,people
-285,남동생,namdongsaeng,younger brother,people
-286,여동생,yeodongsaeng,younger sister,people
-287,할아버지,harabeoji,grandfather,people
-288,할머니,halmeoni,grandmother,people
-289,아들,adeul,son,people
-290,딸,ttal,daughter,people
-291,남편,nampyeon,husband,people
-292,아내,anae,wife,people
-293,부부,bubu,married couple,people
-294,삼촌,samchon,uncle,people
-295,이모,imo,aunt (maternal),people
-296,사촌,sachon,cousin,people
-297,손자,sonja,grandson,people
-298,손녀,sonnyeo,granddaughter,people
-299,이웃,iut,neighbor,people
-300,학생,haksaeng,student,people
-301,선생님,seonsaengnim,teacher,people
-302,의사,uisa,doctor,people
-303,간호사,ganhosa,nurse,people
-304,경찰,gyeongchal,police officer,people
-305,요리사,yorisa,"cook, chef",people
-306,가수,gasu,singer,people
-307,배우,baeu,actor,people
-308,회사원,hoesawon,office worker,people
-309,사장,sajang,"company president, boss",people
-310,직원,jigwon,employee,people
-311,손님,sonnim,"guest, customer",people
-312,주인,juin,owner,people
-313,외국인,oegugin,foreigner,people
-314,한국인,hangugin,Korean person,people
-315,미국인,migugin,American person,people
-316,어른,eoreun,adult,people
-317,청년,cheongnyeon,young person,people
-318,노인,noin,elderly person,people
-319,애인,aein,sweetheart,people
-320,남자친구,namjachingu,boyfriend,people
-321,여자친구,yeojachingu,girlfriend,people
-322,동료,dongnyo,coworker,people
-323,선배,seonbae,senior (school/work),people
-324,후배,hubae,junior (school/work),people
-325,대학생,daehaksaeng,college student,people
-326,군인,gunin,soldier,people
-327,작가,jakga,writer,people
-328,화가,hwaga,painter,people
-329,기자,gija,reporter,people
-330,변호사,byeonhosa,lawyer,people
-331,운전사,unjeonsa,driver,people
-332,농부,nongbu,farmer,people
-333,곳,got,place,places
-334,학교,hakgyo,school,places
-335,회사,hoesa,company,places
-336,병원,byeongwon,hospital,places
-337,약국,yakguk,pharmacy,places
-338,은행,eunhaeng,bank,places
-339,식당,sikdang,restaurant,places
-340,카페,kape,cafe,places
-341,시장,sijang,market,places
-342,가게,gage,store,places
-343,백화점,baekhwajeom,department store,places
-344,편의점,pyeonuijeom,convenience store,places
-345,도서관,doseogwan,library,places
-346,공원,gongwon,park,places
-347,교회,gyohoe,church,places
-348,절,jeol,Buddhist temple,places
-349,우체국,ucheguk,post office,places
-350,영화관,yeonghwagwan,movie theater,places
-351,박물관,bangmulgwan,museum,places
-352,미술관,misulgwan,art gallery,places
-353,대학교,daehakgyo,university,places
-354,교실,gyosil,classroom,places
-355,사무실,samusil,office,places
-356,길,gil,"road, way",places
-357,거리,geori,street,places
-358,도시,dosi,city,places
-359,시골,sigol,countryside,places
-360,나라,nara,country,places
-361,세계,segye,world,places
-362,한국,hanguk,Korea,places
-363,미국,miguk,USA,places
-364,서울,seoul,Seoul,places
-365,동네,dongne,neighborhood,places
-366,아파트,apateu,apartment,places
-367,건물,geonmul,building,places
-368,호텔,hotel,hotel,places
-369,헬스장,helseujang,gym,places
-370,수영장,suyeongjang,swimming pool,places
-371,경찰서,gyeongchalseo,police station,places
-372,미용실,miyongsil,hair salon,places
-373,빵집,ppangjip,bakery,places
-374,주차장,juchajang,parking lot,places
-375,노래방,noraebang,karaoke room,places
-376,극장,geukjang,theater,places
-377,동물원,dongmurwon,zoo,places
-378,시간,sigan,"time, hour",time
-379,오늘,oneul,today,time
-380,내일,naeil,tomorrow,time
-381,어제,eoje,yesterday,time
-382,모레,more,day after tomorrow,time
-383,날,nal,day,time
-384,주,ju,week,time
-385,주말,jumal,weekend,time
-386,달,dal,"month, moon",time
-387,해,hae,"year, sun",time
-388,년,nyeon,year (counter),time
-389,월,wol,month (counter),time
-390,일,il,"day (counter), work",time
-391,시,si,o'clock,time
-392,분,bun,minute,time
-393,초,cho,second,time
-394,밤,bam,night,time
-395,새벽,saebyeok,dawn,time
-396,오전,ojeon,a.m.,time
-397,오후,ohu,p.m.,time
-398,낮,nat,daytime,time
-399,봄,bom,spring,time
-400,여름,yeoreum,summer,time
-401,가을,gaeul,autumn,time
-402,겨울,gyeoul,winter,time
-403,생일,saengil,birthday,time
-404,방학,banghak,school vacation,time
-405,휴가,hyuga,"vacation, leave",time
-406,월요일,woryoil,Monday,time
-407,화요일,hwayoil,Tuesday,time
-408,수요일,suyoil,Wednesday,time
-409,목요일,mogyoil,Thursday,time
-410,금요일,geumyoil,Friday,time
-411,토요일,toyoil,Saturday,time
-412,일요일,iryoil,Sunday,time
-413,지금,jigeum,now,time
-414,요즘,yojeum,these days,time
-415,나중,najung,later,time
-416,처음,cheoeum,"first time, beginning",time
-417,마지막,majimak,"last, end",time
-418,옛날,yennal,old days,time
-419,미래,mirae,future,time
-420,과거,gwageo,past,time
-421,현재,hyeonjae,present,time
-422,매일,maeil,every day,time
-423,평일,pyeongil,weekday,time
-424,작년,jangnyeon,last year,time
-425,내년,naenyeon,next year,time
-426,올해,olhae,this year,time
-427,여행,yeohaeng,"travel, trip",travel
-428,공항,gonghang,airport,travel
-429,비행기,bihaenggi,airplane,travel
-430,기차,gicha,train,travel
-431,지하철,jihacheol,subway,travel
-432,버스,beoseu,bus,travel
-433,택시,taeksi,taxi,travel
-434,자동차,jadongcha,car,travel
-435,자전거,jajeongeo,bicycle,travel
-436,역,yeok,station,travel
-437,정류장,jeongnyujang,bus stop,travel
-438,표,pyo,ticket,travel
-439,여권,yeogwon,passport,travel
-440,지도,jido,map,travel
-441,짐,jim,luggage,travel
-442,호선,hoseon,subway line,travel
-443,출구,chulgu,exit,travel
-444,입구,ipgu,entrance,travel
-445,왼쪽,oenjjok,left side,travel
-446,오른쪽,oreunjjok,right side,travel
-447,앞,ap,front,travel
-448,뒤,dwi,"back, behind",travel
-449,옆,yeop,"side, next to",travel
-450,위,wi,"top, above",travel
-451,아래,arae,"bottom, below",travel
-452,안,an,inside,travel
-453,밖,bak,outside,travel
-454,근처,geuncheo,"vicinity, nearby",travel
-455,방향,banghyang,direction,travel
-456,관광,gwangwang,sightseeing,travel
-457,예약,yeyak,reservation,travel
-458,숙소,sukso,lodging,travel
-459,비자,bija,visa,travel
-460,배낭,baenang,backpack,travel
-461,환전,hwanjeon,currency exchange,travel
-462,사거리,sageori,intersection,travel
-463,신호등,sinhodeung,traffic light,travel
-464,배편,baepyeon,ferry service,travel
-465,일자리,iljari,job,work
-466,직업,jigeop,occupation,work
-467,회의,hoeui,meeting,work
-468,숙제,sukje,homework,work
-469,공부,gongbu,study,work
-470,시험,siheom,exam,work
-471,수업,sueop,"class, lesson",work
-472,문제,munje,"problem, question",work
-473,대답,daedap,answer,work
-474,질문,jilmun,question,work
-475,이름,ireum,name,work
-476,번호,beonho,number,work
-477,주소,juso,address,work
-478,이메일,imeil,email,work
-479,서류,seoryu,document,work
-480,계획,gyehoek,plan,work
-481,경험,gyeongheom,experience,work
-482,월급,wolgeup,monthly salary,work
-483,출근,chulgeun,going to work,work
-484,퇴근,toegeun,leaving work,work
-485,프로젝트,peurojekteu,project,work
-486,보고서,bogoseo,report,work
-487,전공,jeongong,major (study),work
-488,졸업,joreop,graduation,work
-489,입학,iphak,school admission,work
-490,면접,myeonjeop,job interview,work
-491,연락,yeollak,contact,work
-492,약속,yaksok,"promise, appointment",work
-493,돈벌이,donbeori,earning a living,work
-494,노트북,noteubuk,laptop,work
-495,회사일,hoesail,company work,work
-496,업무,eopmu,"duties, tasks",work
-497,일정,iljeong,schedule,work
-498,월말,wolmal,end of month,work
-499,고객,gogaek,client,work
-500,상사,sangsa,"boss, superior",work
+Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
+12,사람,saram,person,people,사람,A
+19,때,ttae,"time, when",time,때01,A
+28,말,mal,"words, speech, language",abstract,말01,A
+29,일,il,"work, job; matter",work,일01,A
+42,사회,sahoe,society,abstract,사회07,B
+49,집,jip,"house, home",home,집01,A
+53,문제,munje,"problem, question",work,문제06,A
+60,속,sok,inside,travel,속01,A
+64,앞,ap,front,travel,앞,A
+65,경우,gyeongu,"case, circumstance",abstract,경우03,B
+72,자신,jasin,oneself,people,자신01,B
+73,문화,munhwa,culture,abstract,문화01,B
+75,생각,saenggak,thought,abstract,생각01,A
+80,소리,sori,sound,abstract,소리01,B
+84,여자,yeoja,woman,people,여자02,A
+86,정도,jeongdo,"degree, extent",abstract,정도11,B
+87,뒤,dwi,"back, behind",travel,뒤01,A
+96,아이,ai,child,people,아이01,A
+99,시간,sigan,"time, hour",time,시간04,A
+102,인간,ingan,human being,people,인간01,B
+103,사실,sasil,"fact, truth",abstract,사실04,B
+106,어머니,eomeoni,mother,people,어머니01,A
+107,눈,nun,eye,body,눈01,A
+109,점,jeom,"point, dot",abstract,점10,B
+111,시대,sidae,"era, period",time,시대02,B
+112,다음,daeum,next,time,다음01,A
+115,전,jeon,"before, ago",time,전08,A
+116,곳,got,place,places,곳01,A
+118,안,an,inside,travel,안01,A
+120,세계,segye,world,places,세계02,B
+122,위,wi,"top, above",travel,위01,A
+123,운동,undong,exercise,abstract,운동02,A
+125,학교,hakgyo,school,places,학교,A
+128,대통령,daetongnyeong,president (of a country),society,대통령,B
+136,정부,jeongbu,government,society,정부08,C
+140,돈,don,money,home,돈01,A
+141,국가,gukga,"nation, state",society,국가01,B
+143,날,nal,day,time,날01,A
+146,여성,yeoseong,"woman, female",people,여성01,B
+147,친구,chingu,friend,people,친구02,A
+148,마음,maeum,"heart, mind",body,마음01,A
+149,후,hu,"after, later",time,후08,A
+152,관계,gwangye,relationship,abstract,관계05,B
+153,아버지,abeoji,father,people,아버지,A
+154,남자,namja,man,people,남자02,A
+156,몸,mom,body,body,몸01,A
+157,얼굴,eolgul,face,body,얼굴01,A
+162,지역,jiyeok,"region, area",places,지역03,B
+164,모습,moseup,"appearance, figure",abstract,모습01,B
+165,물,mul,water,food,물01,A
+172,이번,ibeon,this time,time,이번01,A
+173,길,gil,"road, way",places,길01,A
+174,생활,saenghwal,"life, living",abstract,생활,A
+176,지금,jigeum,now,time,지금03,A
+178,사이,sai,between; relationship,abstract,사이01,A
+179,방법,bangbeop,method,abstract,방법,B
+181,우리나라,urinara,our country (Korea),places,우리나라,A
+184,처음,cheoeum,"first time, beginning",time,처음,A
+185,손,son,hand,body,손01,A
+187,그때,geuttae,"then, that time",time,그때,A
+188,과정,gwajeong,process,abstract,과정03,C
+189,삶,sam,life,abstract,삶,C
+194,이상,isang,"more than, above",abstract,이상05,B
+197,이야기,iyagi,"story, talk",abstract,이야기,A
+198,교육,gyoyuk,education,work,교육,B
+200,경제,gyeongje,economy,abstract,경제04,B
+204,선생님,seonsaengnim,teacher,people,선생님,A
+205,예술,yesul,art,abstract,예술,B
+208,역사,yeoksa,history,abstract,역사04,A
+211,결과,gyeolgwa,result,abstract,결과02,B
+212,내용,naeyong,content,abstract,내용02,B
+214,동안,dongan,"during, period",time,동안01,A
+215,책,chaek,book,home,책01,A
+218,시장,sijang,market,places,시장04,A
+224,힘,him,"strength, power",abstract,힘01,A
+226,나라,nara,country,places,나라01,A
+228,의미,uimi,meaning,abstract,의미02,B
+229,자리,jari,"seat, place",places,자리01,A
+234,정치,jeongchi,politics,abstract,정치03,B
+235,국민,gungmin,"citizens, the people",society,국민,B
+236,생명,saengmyeong,life (living),abstract,생명,C
+237,얘기,yaegi,"story, talk (casual)",abstract,얘기,A
+238,학생,haksaeng,student,people,학생,A
+239,연구,yeongu,research,work,연구03,B
+240,엄마,eomma,mom,people,엄마,A
+241,이름,ireum,name,work,이름,A
+244,사건,sageon,"incident, event",society,사건01,C
+249,이유,iyu,reason,abstract,이유04,B
+252,글,geul,"writing, text",abstract,글,B
+255,남편,nampyeon,husband,people,남편01,A
+257,밖,bak,outside,travel,밖,A
+258,세상,sesang,world,abstract,세상01,B
+261,대학,daehak,"college, university",places,대학01,A
+262,작품,jakpum,work (of art),abstract,작품01,C
+263,상황,sanghwang,situation,abstract,상황02,C
+264,가운데,gaunde,"middle, center",travel,가운데,A
+269,상태,sangtae,"condition, state",abstract,상태01,C
+270,이후,ihu,"after, since",time,이후02,B
+271,당시,dangsi,at that time,time,당시02,C
+272,문학,munhak,literature,abstract,문학01,B
+275,지방,jibang,"province, local area",places,지방05,B
+276,밤,bam,night,time,밤01,A
+278,최근,choegeun,"recently, recent",time,최근,B
+280,현실,hyeonsil,reality,abstract,현실02,C
+281,환경,hwangyeong,environment,nature,환경02,B
+282,컴퓨터,keompyuteo,computer,home,컴퓨터,A
+286,자체,jache,itself,abstract,자체02,B
+288,머리,meori,"head, hair",body,머리01,A
+291,부분,bubun,"part, portion",abstract,부분01,B
+292,기업,gieop,"company, enterprise",work,기업01,C
+294,변화,byeonhwa,change,abstract,변화,B
+295,아들,adeul,son,people,아들,A
+296,뜻,tteut,meaning,abstract,뜻,B
+300,선거,seongeo,election,society,선거04,C
+308,중심,jungsim,"center, core",abstract,중심01,B
+309,활동,hwaldong,activity,abstract,활동02,B
+310,오늘,oneul,today,time,오늘,A
+312,관심,gwansim,interest,abstract,관심01,B
+315,애,ae,"child, kid (casual)",people,애02,B
+316,광고,gwanggo,advertisement,work,광고02,B
+318,방,bang,room,home,방07,A
+319,정신,jeongsin,"spirit, mind",abstract,정신12,B
+321,땅,ttang,"ground, land",nature,땅01,B
+323,아침,achim,"breakfast, morning",food,아침,A
+325,현상,hyeonsang,phenomenon,abstract,현상04,C
+328,기술,gisul,"technology, skill",work,기술01,B
+329,전체,jeonche,"whole, entire",abstract,전체01,B
+333,끝,kkeut,end,abstract,끝01,A
+334,민족,minjok,"ethnic group, people",society,민족,B
+336,조사,josa,"survey, investigation",work,조사30,B
+338,입,ip,mouth,body,입,A
+341,영화,yeonghwa,movie,abstract,영화01,A
+342,필요,piryo,"need, necessity",abstract,필요,A
+344,하늘,haneul,sky,nature,하늘01,A
+346,과학,gwahak,science,abstract,과학,B
+348,자연,jayeon,nature,nature,자연01,B
+350,구조,gujo,structure,abstract,구조08,C
+352,결국,gyeolguk,"in the end, eventually",abstract,결국,B
+353,밥,bap,"rice, meal",food,밥01,A
+356,프로그램,peurogeuraem,program,abstract,프로그램,B
+360,남,nam,"others, other people",people,남01,C
+361,하루,haru,"one day, a day",time,하루01,B
+362,그림,geurim,"picture, drawing",home,그림01,A
+367,혼자,honja,"alone, by oneself",people,혼자01,A
+370,이제,ije,now,time,이제01,A
+371,교수,gyosu,professor,people,교수06,A
+372,술,sul,alcohol,food,술01,A
+373,사랑,sarang,love,abstract,사랑01,A
+374,의식,uisik,consciousness,abstract,의식03,C
+375,전화,jeonhwa,telephone,home,전화07,A
+379,아빠,appa,dad,people,아빠,A
+382,한번,hanbeon,"once, one time",time,한번,A
+383,커피,keopi,coffee,food,커피,A
+384,가슴,gaseum,chest,body,가슴01,A
+389,회사,hoesa,company,places,회사04,A
+390,맛,mat,taste,food,맛01,A
+391,대부분,daebubun,"most, majority",abstract,대부분,B
+392,산업,saneop,industry,society,산업,C
+395,음식,eumsik,food,food,음식,A
+396,표정,pyojeong,facial expression,body,표정03,B
+398,일부,ilbu,"part, some",abstract,일부02,B
+399,요즘,yojeum,these days,time,요즘,A
+400,계획,gyehoek,plan,work,계획01,A
+401,느낌,neukkim,feeling,abstract,느낌,B
+402,얼마,eolma,how much,abstract,얼마,A
+403,고개,gogae,head (nape); hill pass,body,고개01,B
+404,성격,seonggyeok,personality,abstract,성격02,B
+406,세기,segi,century,time,세기03,B
+408,아내,anae,wife,people,아내01,A
+409,가족,gajok,family,people,가족01,A
+416,발전,baljeon,development,society,발전01,B
+417,차,cha,car,travel,차06,A
+420,관련,gwallyeon,"relation, connection",abstract,관련,B
+421,형태,hyeongtae,"form, shape",abstract,형태,C
+423,도시,dosi,city,places,도시03,A
+424,작업,jageop,"work, task",work,작업01,C
+425,분위기,bunwigi,"atmosphere, mood",abstract,분위기,B
+427,자기,jagi,"self, oneself",people,자기04,B
+429,나이,nai,age,people,나이01,A
+435,정보,jeongbo,information,abstract,정보06,B
+442,시,si,poem,abstract,시13,C
+443,역할,yeokal,role,abstract,역할,B
+444,옆,yeop,"side, next to",travel,옆,A
+445,행동,haengdong,"action, behavior",abstract,행동,B
+447,국내,gungnae,domestic,society,국내02,B
+449,기관,gigwan,"institution, agency",society,기관11,C
+450,입장,ipjang,"position, standpoint",abstract,입장04,C
+452,예,ye,example,abstract,예08,B
+453,아래,arae,"bottom, below",travel,아래01,A
+454,방식,bangsik,"method, way",abstract,방식01,C
+455,영향,yeonghyang,influence,abstract,영향04,C
+462,배,bae,"boat, ship",travel,배02,A
+464,모양,moyang,shape,abstract,모양02,B
+465,산,san,mountain,nature,산01,A
+468,조건,jogeon,"condition, terms",abstract,조건02,B
+469,문,mun,door,home,문05,A
+470,꽃,kkot,flower,nature,꽃01,A
+471,단계,dangye,"stage, step",abstract,단계03,C
+473,그동안,geudongan,"meanwhile, all this time",time,그동안,A
+474,교사,gyosa,teacher,people,교사09,C
+478,바람,baram,wind,nature,바람01,A
+480,마을,maeul,village,places,마을01,B
+482,대표,daepyo,representative,people,대표,B
+483,가능성,ganeungseong,possibility,abstract,가능성,B
+484,방향,banghyang,direction,travel,방향01,B
+485,대회,daehoe,"competition, convention",abstract,대회02,B
+486,목소리,moksori,voice,body,목소리,B
+487,노래,norae,song,abstract,노래01,A
+488,바다,bada,sea,nature,바다,A
+490,공부,gongbu,study,work,공부01,A
+492,의원,uiwon,lawmaker,people,의원05,C
+494,노력,noryeok,effort,abstract,노력01,B
+497,언니,eonni,older sister (female speaker),people,언니,A
+498,단체,danche,"group, organization",society,단체02,B
+502,능력,neungnyeok,ability,abstract,능력02,B
+504,자식,jasik,"children, offspring",people,자식01,B
+506,불,bul,"light, fire",home,불01,A
+507,주민,jumin,resident,people,주민,C
+509,자료,jaryo,"data, materials",work,자료03,B
+510,존재,jonjae,existence,abstract,존재,C
+512,학년,hangnyeon,"school year, grade",work,학년,A
+513,신문,sinmun,newspaper,abstract,신문10,A
+516,제품,jepum,product,work,제품02,B
+517,분야,bunya,"field, area",work,분야,C
+518,선생,seonsaeng,teacher; Mr./Ms.,people,선생01,A
+520,사업,saeop,business,work,사업04,B
+521,행위,haengwi,"act, deed",abstract,행위,C
+522,수준,sujun,"level, standard",abstract,수준,C
+523,지난해,jinanhae,last year,time,지난해,B
+524,표현,pyohyeon,expression,abstract,표현,B
+525,기분,gibun,"mood, feeling",abstract,기분01,A
+529,동시,dongsi,same time,time,동시02,B
+530,옷,ot,clothes,home,옷01,A
+531,기능,gineung,function,abstract,기능03,C
+532,순간,sungan,moment,time,순간03,B
+533,전쟁,jeonjaeng,war,abstract,전쟁,B
+535,꿈,kkum,dream,abstract,꿈01,A
+536,할머니,halmeoni,grandmother,people,할머니,A
+537,회의,hoeui,meeting,work,회의04,A
+538,방송,bangsong,broadcast,abstract,방송01,B
+540,나무,namu,tree,nature,나무01,A
+543,연극,yeongeuk,play (theater),abstract,연극,C
+545,마찬가지,machangaji,the same,abstract,마찬가지,B
+547,노동,nodong,labor,work,노동03,C
+548,이때,ittae,"this time, now",time,이때,A
+549,과거,gwageo,past,time,과거03,B
+550,가치,gachi,value,abstract,가치06,C
+552,집단,jipdan,group,society,집단,C
+553,현대,hyeondae,modern times,time,현대01,B
+556,장관,janggwan,minister (government),people,장관02,C
+557,차이,chai,difference,abstract,차이,B
+559,시절,sijeol,"days, period (of life)",time,시절01,B
+560,물건,mulgeon,"thing, item",home,물건,A
+562,개인,gaein,individual,people,개인02,B
+564,발,bal,foot,body,발01,A
+565,작가,jakga,writer,people,작가01,B
+566,효과,hyogwa,effect,abstract,효과01,B
+567,불교,bulgyo,Buddhism,abstract,불교,B
+578,우주,uju,"universe, space",nature,우주02,C
+579,시기,sigi,"time, period",time,시기05,C
+582,생산,saengsan,production,work,생산,C
+585,경험,gyeongheom,experience,work,경험,B
+586,음악,eumak,music,abstract,음악01,A
+587,최고,choego,"the best, highest",abstract,최고02,B
+592,비,bi,rain,nature,비01,A
+593,고향,gohyang,hometown,places,고향02,A
+597,농민,nongmin,farmer,people,농민,C
+599,은행,eunhaeng,bank,places,은행02,A
+601,결혼,gyeolhon,marriage,abstract,결혼,A
+602,동생,dongsaeng,younger sibling,people,동생01,A
+603,법,beop,law,society,법01,B
+604,소설,soseol,novel,abstract,소설03,B
+606,오후,ohu,p.m.,time,오후02,A
+607,질서,jilseo,order (orderliness),society,질서03,B
+611,시민,simin,citizen,people,시민,B
+612,회장,hoejang,"chairman, president",people,회장07,B
+615,아기,agi,baby,people,아기01,A
+616,아저씨,ajeossi,"mister, middle-aged man",people,아저씨,A
+617,옛날,yennal,old days,time,옛날,A
+618,이날,inal,this day,time,이날,B
+623,공간,gonggan,space,abstract,공간05,B
+625,딸,ttal,daughter,people,딸01,A
+626,마지막,majimak,"last, end",time,마지막,A
+628,병원,byeongwon,hospital,places,병원02,A
+630,자세,jase,"posture, attitude",body,자세02,C
+632,경찰,gyeongchal,police officer,people,경찰04,A
+634,저녁,jeonyeok,"dinner, evening",food,저녁,A
+637,기자,gija,reporter,people,기자05,B
+639,시험,siheom,exam,work,시험03,A
+640,잠,jam,sleep,abstract,잠01,A
+643,면,myeon,"side, aspect",abstract,면05,C
+645,통일,tongil,unification,society,통일02,B
+647,건강,geongang,health,abstract,건강03,A
+649,건물,geonmul,building,places,건물03,A
+650,시설,siseol,facilities,places,시설03,B
+651,외국,oeguk,foreign country,places,외국02,A
+652,밑,mit,"bottom, below",travel,밑01,A
+653,어른,eoreun,adult,people,어른01,A
+654,주변,jubyeon,"surroundings, vicinity",travel,주변04,B
+655,대신,daesin,instead,abstract,대신03,B
+656,원인,wonin,cause,abstract,원인02,C
+658,차례,charye,"turn, order",abstract,차례01,B
+659,군,gun,"military, army",society,군05,B
+662,재산,jaesan,"property, wealth",abstract,재산,B
+663,조금,jogeum,a little,abstract,조금01,A
+664,팀,tim,team,work,팀01,A
+665,부모,bumo,parents,people,부모01,A
+667,언어,eoneo,language,abstract,언어01,C
+671,감독,gamdok,"director, coach",people,감독02,C
+672,그날,geunal,that day,time,그날,A
+678,기간,gigan,"period, term",time,기간07,B
+679,담배,dambae,cigarette,home,담배,A
+682,할아버지,harabeoji,grandfather,people,할아버지,A
+683,조직,jojik,organization,society,조직,C
+685,공장,gongjang,factory,places,공장02,B
+689,환자,hwanja,patient,people,환자03,A
+691,사고,sago,accident,abstract,사고12,B
+695,쌀,ssal,uncooked rice,food,쌀,B
+696,일반,ilban,"general, ordinary",abstract,일반02,B
+699,대화,daehwa,conversation,abstract,대화06,A
+701,올해,olhae,this year,time,올해,A
+702,형,hyeong,older brother (male speaker),people,형01,A
+706,인물,inmul,"person, figure",people,인물,C
+708,모두,modu,"all, everyone",abstract,모두01,A
+709,전국,jeonguk,"whole country, nationwide",places,전국03,B
+714,도움,doum,help,abstract,도움,B
+715,가정,gajeong,"household, home",home,가정06,B
+719,버스,beoseu,bus,travel,버스02,A
+721,오늘날,oneullal,nowadays,time,오늘날,B
+723,농업,nongeop,agriculture,work,농업,B
+726,의견,uigyeon,opinion,abstract,의견01,B
+727,무대,mudae,stage,abstract,무대06,C
+728,사진,sajin,photo,home,사진07,A
+729,주장,jujang,"claim, assertion",abstract,주장03,C
+733,제일,jeil,"first, the most",abstract,제일04,A
+739,경기,gyeonggi,"game, match",abstract,경기11,B
+740,목적,mokjeok,purpose,abstract,목적03,B
+741,태도,taedo,attitude,abstract,태도03,B
+742,남성,namseong,"man, male",people,남성01,B
+743,주위,juwi,surroundings,travel,주위02,B
+744,대책,daechaek,countermeasure,society,대책03,C
+747,다리,dari,leg,body,다리01,A
+750,재료,jaeryo,"ingredient, material",food,재료01,B
+755,해,hae,sun,nature,해01,A
+757,자유,jayu,freedom,abstract,자유03,B
+758,책임,chaegim,responsibility,abstract,책임,B
+762,경쟁,gyeongjaeng,competition,abstract,경쟁,C
+766,여름,yeoreum,summer,time,여름01,A
+769,구체적,guchejeok,"concrete, specific",abstract,구체적,B
+770,기회,gihoe,opportunity,abstract,기회03,B
+773,지구,jigu,Earth,nature,지구04,B
+775,소비자,sobija,consumer,people,소비자,B
+778,규모,gyumo,"scale, size",abstract,규모,C
+779,기준,gijun,"standard, criterion",abstract,기준03,B
+788,값,gap,price,abstract,값,A
+789,현장,hyeonjang,"site, scene",places,현장03,C
+790,건설,geonseol,construction,work,건설,C
+792,노동자,nodongja,"worker, laborer",people,노동자,B
+793,동네,dongne,neighborhood,places,동네,B
+796,자동차,jadongcha,car,travel,자동차,A
+802,어린이,eorini,child,people,어린이01,A
+804,한마디,hanmadi,a word,abstract,한마디,C
+806,이데올로기,ideollogi,ideology,society,이데올로기,C
+808,대중,daejung,"the public, masses",society,대중02,B
+812,말씀,malsseum,words (honorific),abstract,말씀,A
+814,눈물,nunmul,tears,body,눈물01,A
+815,각종,gakjong,all kinds,abstract,각종,B
+816,빛,bit,light,nature,빛,B
+822,지식,jisik,knowledge,abstract,지식02,C
+823,현재,hyeonjae,present,time,현재02,B
+825,주인,juin,owner,people,주인01,A
+827,선,seon,line,abstract,선14,C
+828,인류,illyu,humankind,people,인류01,C
+829,특징,teukjing,"characteristic, feature",abstract,특징,B
+831,선수,seonsu,"athlete, player",people,선수05,B
+832,형식,hyeongsik,"form, format",abstract,형식01,C
+834,반,ban,half,abstract,반07,A
+836,주제,juje,"topic, theme",abstract,주제04,B
+839,관점,gwanjeom,point of view,abstract,관점02,C
+840,귀,gwi,ear,body,귀01,A
+842,기본,gibon,basics,abstract,기본,B
+846,감정,gamjeong,emotion,abstract,감정06,B
+847,기억,gieok,memory,abstract,기억02,B
+849,인기,ingi,popularity,abstract,인기01,B
+850,배,bae,belly,body,배01,A
+851,아파트,apateu,apartment,places,아파트,A
+853,구성,guseong,"composition, makeup",abstract,구성07,C
+858,관리,gwalli,management,work,관리04,B
+869,이전,ijeon,"before, previous",time,이전03,B
+872,중앙,jungang,"center, middle",travel,중앙01,C
+877,게임,geim,game,abstract,게임,A
+878,국제,gukje,international,society,국제02,B
+879,그룹,geurup,group,people,그룹01,B
+880,인생,insaeng,life (one's life),abstract,인생01,B
+881,전통,jeontong,tradition,abstract,전통06,B
+884,잔,jan,"cup, glass",food,잔03,A
+890,시인,siin,poet,people,시인10,B
+893,평가,pyeongga,evaluation,work,평가03,C
+895,위치,wichi,location,travel,위치01,B
+898,가격,gagyeok,price,abstract,가격03,B
+901,삼국,samguk,Three Kingdoms (period),society,삼국,C
+902,손님,sonnim,"guest, customer",people,손님,A
+904,통신,tongsin,communication(s),abstract,통신01,B
+906,모임,moim,"gathering, meeting",abstract,모임01,B
+907,수,su,number,abstract,수26,C
+909,웃음,useum,laughter,abstract,웃음,B
+910,기계,gigye,machine,home,기계07,B
+912,물질,muljil,"matter, substance",nature,물질02,C
+913,아나운서,anaunseo,announcer,people,아나운서,B
+914,뉴스,nyuseu,news,abstract,뉴스,A
+918,배,bae,"times, -fold",abstract,배09,C
+919,수업,sueop,"class, lesson",work,수업04,A
+920,겨울,gyeoul,winter,time,겨울,A
+921,종교,jonggyo,religion,abstract,종교,B
+922,층,cheung,"floor, story (building)",home,층02,A
+928,식사,siksa,meal,food,식사03,A
+930,이해,ihae,understanding,abstract,이해06,B
+933,반,ban,class (group),work,반11,A
+940,텔레비전,tellebijeon,television,home,텔레비전,A
+943,실천,silcheon,"practice, putting into action",abstract,실천01,C
+945,보호,boho,protection,abstract,보호01,B
+948,한편,hanpyeon,on the other hand; one side,abstract,한편,B
+951,이웃,iut,neighbor,people,이웃,B
+952,편지,pyeonji,letter,home,편지02,A
+953,공동,gongdong,"joint, shared",abstract,공동02,B
+954,까닭,kkadak,reason,abstract,까닭,B
+955,방안,bangan,"plan, measure",abstract,방안01,C
+957,팔,pal,arm,body,팔01,A
+959,분석,bunseok,analysis,work,분석02,C
+960,소녀,sonyeo,girl,people,소녀02,B
+963,상품,sangpum,"product, goods",work,상품03,B
+965,설명,seolmyeong,explanation,abstract,설명,A
+967,관계자,gwangyeja,"person concerned, official",people,관계자,C
+971,티브이,tibeui,TV,home,티브이,A
+972,봄,bom,spring,time,봄01,A
+973,종류,jongnyu,"kind, type",abstract,종류02,B
+975,어깨,eokkae,shoulder,body,어깨01,A
+977,부부,bubu,married couple,people,부부03,A
+979,요구,yogu,"demand, request",abstract,요구03,C
+984,여행,yeohaeng,"travel, trip",travel,여행02,A
+985,죽음,jugeum,death,abstract,죽음01,B
+986,고통,gotong,"pain, suffering",abstract,고통,B
+988,공,gong,ball,abstract,공01,A
+991,오월,owol,May,time,오월01,A
+996,과,gwa,department; lesson,work,과10,A
+999,예정,yejeong,"plan, schedule (expected)",time,예정02,B
+1000,오빠,oppa,older brother (female speaker),people,오빠,A
+1003,한계,hangye,limit,abstract,한계,C
+1005,바탕,batang,"basis, background",abstract,바탕01,C
+1006,사월,sawol,April,time,사월02,A
+1010,갈등,galdeung,conflict,abstract,갈등,C
+1014,의지,uiji,"will, determination",abstract,의지06,C
+1015,전문,jeonmun,specialty,work,전문08,B
+1017,초기,chogi,early stage,time,초기04,C
+1018,나중,najung,later,time,나중01,A
+1019,등,deung,back,body,등01,B
+1021,며칠,myeochil,a few days; what date,time,며칠,A
+1022,신경,singyeong,nerves,body,신경04,C
+1025,미,mi,beauty,abstract,미14,C
+1026,사용,sayong,use,abstract,사용04,B
+1027,시선,siseon,"gaze, eyes",body,시선03,C
+1029,언론,eollon,"the press, media",society,언론,C
+1030,투자,tuja,investment,society,투자02,C
+1032,지원,jiwon,support,abstract,지원02,C
+1034,경영,gyeongyeong,"management, running a business",work,경영02,B
+1036,목표,mokpyo,goal,abstract,목표,B
+1037,성장,seongjang,growth,abstract,성장01,C
+1038,숲,sup,forest,nature,숲01,B
+1040,작년,jangnyeon,last year,time,작년,A
+1045,새벽,saebyeok,dawn,time,새벽01,B
+1046,쓰레기,sseuregi,trash,home,쓰레기,A
+1048,임금,imgeum,wages,work,임금03,B
+1049,피해,pihae,"damage, harm",abstract,피해01,C
+1050,한,han,"grudge, deep sorrow",abstract,한06,C
+1052,직장,jikjang,workplace,work,직장05,B
+1054,크기,keugi,size,abstract,크기,B
+1055,고기,gogi,meat,food,고기01,A
+1057,서양,seoyang,the West,places,서양,B
+1058,주요,juyo,"main, major",abstract,주요01,B
+1061,냄새,naemsae,smell,abstract,냄새,B
+1067,공연,gongyeon,performance,abstract,공연02,B
+1068,남녀,namnyeo,men and women,people,남녀,A
+1072,속도,sokdo,speed,abstract,속도01,B
+1074,준비,junbi,preparation,abstract,준비,A
+1076,구월,guwol,September,time,구월02,A
+1078,소년,sonyeon,boy,people,소년01,B
+1079,소식,sosik,news,abstract,소식04,B
+1080,유월,yuwol,June,time,유월01,A
+1081,작용,jagyong,"action, effect",abstract,작용01,C
+1082,허리,heori,waist,body,허리01,A
+1083,골,gol,goal (sports),abstract,골14,C
+1084,공업,gongeop,"industry, manufacturing",society,공업01,C
+1085,그중,geujung,among them,abstract,그중,B
+1086,노인,noin,elderly person,people,노인01,B
+1089,새,sae,bird,nature,새03,A
+1090,영어,yeongeo,English language,abstract,영어02,A
+1091,출신,chulsin,"origin, background",people,출신,C
+1092,결정,gyeoljeong,decision,abstract,결정01,B
+1093,경향,gyeonghyang,"tendency, trend",abstract,경향02,C
+1094,기록,girok,record,abstract,기록02,C
