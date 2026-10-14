@@ -1,7 +1,7 @@
 Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 12,사람,saram,person,people,사람,A
 19,때,ttae,"time, when",time,때01,A
-28,말,mal,"words, speech, language",abstract,말01,A
+28,말,mal,"words, speech, language (homograph: also horse)",abstract,말01,A
 29,일,il,"work, job; matter",work,일01,A
 42,사회,sahoe,society,abstract,사회07,B
 49,집,jip,"house, home",home,집01,A
@@ -21,7 +21,7 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 102,인간,ingan,human being,people,인간01,B
 103,사실,sasil,"fact, truth",abstract,사실04,B
 106,어머니,eomeoni,mother,people,어머니01,A
-107,눈,nun,eye,body,눈01,A
+107,눈,nun,eye (homograph: also snow),body,눈01,A
 109,점,jeom,"point, dot",abstract,점10,B
 111,시대,sidae,"era, period",time,시대02,B
 112,다음,daeum,next,time,다음01,A
@@ -30,7 +30,7 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 118,안,an,inside,travel,안01,A
 120,세계,segye,world,places,세계02,B
 122,위,wi,"top, above",travel,위01,A
-123,운동,undong,exercise,abstract,운동02,A
+123,운동,undong,exercise; (social/political) movement,abstract,운동02,A
 125,학교,hakgyo,school,places,학교,A
 128,대통령,daetongnyeong,president (of a country),society,대통령,B
 136,정부,jeongbu,government,society,정부08,C
@@ -100,7 +100,7 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 271,당시,dangsi,at that time,time,당시02,C
 272,문학,munhak,literature,abstract,문학01,B
 275,지방,jibang,"province, local area",places,지방05,B
-276,밤,bam,night,time,밤01,A
+276,밤,bam,night (homograph: also chestnut),time,밤01,A
 278,최근,choegeun,"recently, recent",time,최근,B
 280,현실,hyeonsil,reality,abstract,현실02,C
 281,환경,hwangyeong,environment,nature,환경02,B
@@ -164,13 +164,13 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 400,계획,gyehoek,plan,work,계획01,A
 401,느낌,neukkim,feeling,abstract,느낌,B
 402,얼마,eolma,how much,abstract,얼마,A
-403,고개,gogae,head (nape); hill pass,body,고개01,B
+403,고개,gogae,head (nape),body,고개01,B
 404,성격,seonggyeok,personality,abstract,성격02,B
 406,세기,segi,century,time,세기03,B
 408,아내,anae,wife,people,아내01,A
 409,가족,gajok,family,people,가족01,A
 416,발전,baljeon,development,society,발전01,B
-417,차,cha,car,travel,차06,A
+417,차,cha,car (homograph: also tea),travel,차06,A
 420,관련,gwallyeon,"relation, connection",abstract,관련,B
 421,형태,hyeongtae,"form, shape",abstract,형태,C
 423,도시,dosi,city,places,도시03,A
@@ -179,8 +179,8 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 427,자기,jagi,"self, oneself",people,자기04,B
 429,나이,nai,age,people,나이01,A
 435,정보,jeongbo,information,abstract,정보06,B
-442,시,si,poem,abstract,시13,C
-443,역할,yeokal,role,abstract,역할,B
+442,시,si,"poem (not 시 ""o'clock""/city)",abstract,시13,C
+443,역할,yeokhal,role,abstract,역할,B
 444,옆,yeop,"side, next to",travel,옆,A
 445,행동,haengdong,"action, behavior",abstract,행동,B
 447,국내,gungnae,domestic,society,국내02,B
@@ -190,7 +190,7 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 453,아래,arae,"bottom, below",travel,아래01,A
 454,방식,bangsik,"method, way",abstract,방식01,C
 455,영향,yeonghyang,influence,abstract,영향04,C
-462,배,bae,"boat, ship",travel,배02,A
+462,배,bae,"boat, ship (homograph: also belly, times/-fold)",travel,배02,A
 464,모양,moyang,shape,abstract,모양02,B
 465,산,san,mountain,nature,산01,A
 468,조건,jogeon,"condition, terms",abstract,조건02,B
@@ -271,7 +271,7 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 602,동생,dongsaeng,younger sibling,people,동생01,A
 603,법,beop,law,society,법01,B
 604,소설,soseol,novel,abstract,소설03,B
-606,오후,ohu,p.m.,time,오후02,A
+606,오후,ohu,"afternoon, p.m.",time,오후02,A
 607,질서,jilseo,order (orderliness),society,질서03,B
 611,시민,simin,citizen,people,시민,B
 612,회장,hoejang,"chairman, president",people,회장07,B
@@ -284,7 +284,7 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 626,마지막,majimak,"last, end",time,마지막,A
 628,병원,byeongwon,hospital,places,병원02,A
 630,자세,jase,"posture, attitude",body,자세02,C
-632,경찰,gyeongchal,police officer,people,경찰04,A
+632,경찰,gyeongchal,police; police officer,people,경찰04,A
 634,저녁,jeonyeok,"dinner, evening",food,저녁,A
 637,기자,gija,reporter,people,기자05,B
 639,시험,siheom,exam,work,시험03,A
@@ -340,7 +340,7 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 742,남성,namseong,"man, male",people,남성01,B
 743,주위,juwi,surroundings,travel,주위02,B
 744,대책,daechaek,countermeasure,society,대책03,C
-747,다리,dari,leg,body,다리01,A
+747,다리,dari,leg (homograph: also bridge),body,다리01,A
 750,재료,jaeryo,"ingredient, material",food,재료01,B
 755,해,hae,sun,nature,해01,A
 757,자유,jayu,freedom,abstract,자유03,B
@@ -375,7 +375,7 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 829,특징,teukjing,"characteristic, feature",abstract,특징,B
 831,선수,seonsu,"athlete, player",people,선수05,B
 832,형식,hyeongsik,"form, format",abstract,형식01,C
-834,반,ban,half,abstract,반07,A
+834,반,ban,half (homograph: also class/group),abstract,반07,A
 836,주제,juje,"topic, theme",abstract,주제04,B
 839,관점,gwanjeom,point of view,abstract,관점02,C
 840,귀,gwi,ear,body,귀01,A
@@ -383,7 +383,7 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 846,감정,gamjeong,emotion,abstract,감정06,B
 847,기억,gieok,memory,abstract,기억02,B
 849,인기,ingi,popularity,abstract,인기01,B
-850,배,bae,belly,body,배01,A
+850,배,bae,"belly, stomach (homograph: also boat, times/-fold)",body,배01,A
 851,아파트,apateu,apartment,places,아파트,A
 853,구성,guseong,"composition, makeup",abstract,구성07,C
 858,관리,gwalli,management,work,관리04,B
@@ -409,14 +409,14 @@ Rank,Korean,Romanization,English,Category,NIKL Word ID,NIKL Level
 912,물질,muljil,"matter, substance",nature,물질02,C
 913,아나운서,anaunseo,announcer,people,아나운서,B
 914,뉴스,nyuseu,news,abstract,뉴스,A
-918,배,bae,"times, -fold",abstract,배09,C
+918,배,bae,"times, -fold, e.g. 두 배 = twice (homograph: also boat, belly)",abstract,배09,C
 919,수업,sueop,"class, lesson",work,수업04,A
 920,겨울,gyeoul,winter,time,겨울,A
 921,종교,jonggyo,religion,abstract,종교,B
 922,층,cheung,"floor, story (building)",home,층02,A
 928,식사,siksa,meal,food,식사03,A
 930,이해,ihae,understanding,abstract,이해06,B
-933,반,ban,class (group),work,반11,A
+933,반,ban,"class, homeroom group (homograph: also half)",work,반11,A
 940,텔레비전,tellebijeon,television,home,텔레비전,A
 943,실천,silcheon,"practice, putting into action",abstract,실천01,C
 945,보호,boho,protection,abstract,보호01,B
